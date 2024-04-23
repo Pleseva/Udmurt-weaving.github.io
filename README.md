@@ -1,1 +1,1 @@
-[# Udmurt-weaving](https://pleseva.github.io/Udmurt-weaving)
+Udmurt-weaving.github.io
